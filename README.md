@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/leonardoapd" target="blank"><img src="https://img.shields.io/twitter/follow/leonardoapd?logo=twitter&style=for-the-badge" alt="leonardoapd" /></a> </p>
 
-- 🔭 I’m currently working on [Image Uploader](https://image-uploader-page.netlify.app/)
+- 🔭 I’m currently working on Internal Project, You'll know soon about it.
 
-- 🌱 I’m currently learning **Java with Spring Boot and Thymeleaf**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://leonardo-perdomo.netlify.app/](https://leonardo-perdomo.netlify.app/)
 
